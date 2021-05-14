@@ -7,6 +7,7 @@ Note taking application designed to write, save, and delete notes, written to an
 ## Links
 
 GitHub Repository URL 
+
 Diployed Application URL 
 
 
