@@ -4,6 +4,12 @@ Note taking application designed to write, save, and delete notes, written to an
 ## Example Usage
 ![](./xxxxxxxxxxxxxxxxxxxxx)
 
+## Links
+
+GitHub Repository URL 
+Diployed Application URL 
+
+
 ## Approach
 As the front end was already created, I needed to look at connecting this to the backend. I broke down the problem into smaller objectives:
 1. Start a server using Express
