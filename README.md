@@ -6,7 +6,7 @@ Note taking application designed to write, save, and delete notes, written to an
 
 ## Links
 
-GitHub Repository URL 
+GitHub Repository URL https://github.com/Eskodad/taskmaster
 
 Diployed Application URL 
 
